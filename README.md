@@ -1,2 +1,1 @@
-# repositorio-henry
-pruba 2 precurse henry
+proyecto prueba para clonarrepositorio desde el escritorio
